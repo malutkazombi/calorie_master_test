@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calorie Master</string>
+    <string name="scan_activity_name">Scan Product</string>
+    <string name="diet_recommendation_activity_name">Diet Recommendations</string>
+    <string name="meal_history_activity_name">Meal History</string>
+    <string name="progress_tracking_activity_name">Progress Tracking</string>
+</resources>
