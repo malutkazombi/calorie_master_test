@@ -1,6 +1,7 @@
 # Calorie Master 🍱🔥
 
 A prototype Android app for tracking calories and managing food intake.
+**WIP (Work In Progress)** — This project is currently under development. Please check back later for updates!
 
 ## 🎯 Purpose
 
