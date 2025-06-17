@@ -1,19 +1,16 @@
+# Android/Java/Gradle related
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+.gradle/
 local.properties
+/.idea/
+.DS_Store
+/build/
+.cxx/
+.externalNativeBuild/
+captures/
 
-# Project exclude paths
-/app/
-/gradle/
+# Optional - macOS
+*.DS_Store
+
+# Ignore generated files
+**/build/
