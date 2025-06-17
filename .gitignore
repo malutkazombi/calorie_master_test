@@ -1,6 +1,5 @@
 # Android/Java/Gradle related
 *.iml
-.gradle/
 local.properties
 /.idea/
 .DS_Store
